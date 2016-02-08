@@ -1,0 +1,14 @@
+layout_spectrum: 0.8131508
+typography_spectrum: 0.3474054
+color:
+  saturation: 0.9211402
+  lightness: 0.07957764
+  brandStrength: 0.4382863
+  rhythmicContrast: 0.4745913
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: KoreanWonders
